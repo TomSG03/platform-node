@@ -1,0 +1,23 @@
+{
+  "name": "@tomsg03/platform-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomSG03/platform-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomSG03/platform-node/issues"
+  },
+  "homepage": "https://github.com/TomSG03/platform-node#readme",
+  "dependencies": {
+    "@tomsg03/platform1": "^1.0.0"
+  }
+}
